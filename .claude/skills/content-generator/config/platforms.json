@@ -1,0 +1,188 @@
+{
+  "platforms": [
+    {
+      "id": "linkedin",
+      "name": "LinkedIn",
+      "description": "Professional network for thought leadership and industry advocacy",
+      "characteristics": {
+        "audience": "Business professionals, fleet managers, insurance industry, policy makers",
+        "tone": "Professional, data-driven, authoritative",
+        "content_types": ["Industry insights", "Data reports", "Company updates", "Thought leadership"],
+        "format_preferences": ["Text posts with images", "Native video", "Document carousels", "Polls"],
+        "optimal_length": {
+          "text": "100-300 characters",
+          "video": "30 seconds"
+        },
+        "posting_frequency": "3-5 times per week",
+        "best_times": ["Tuesday-Thursday 8-10am", "Wednesday 12pm", "Thursday 4-5pm"],
+        "hashtag_strategy": {
+          "count": "3-5 hashtags",
+          "mix": ["#SafeDriving", "#FleetSafety", "#InsurTech", "#RoadSafety", "#DrivingInnovation"]
+        },
+        "engagement_tactics": [
+          "Ask industry questions",
+          "Share data insights",
+          "Tag relevant companies",
+          "Respond to comments within 2 hours"
+        ],
+        "pillar_alignment": ["advocacy_impact", "token_community", "product_tips"]
+      }
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "description": "Visual platform for community building and lifestyle content",
+      "characteristics": {
+        "audience": "Millennials, Gen Z, visual learners, community-focused users",
+        "tone": "Friendly, visual, inspirational, community-driven",
+        "content_types": ["Community spotlights", "Safety tips", "Behind-the-scenes", "User-generated content"],
+        "format_preferences": ["Feed posts", "Reels", "Stories", "Carousel posts"],
+        "optimal_length": {
+          "caption": "125-150 characters visible",
+          "reels": "15-30 seconds",
+          "stories": "5-10 seconds per slide"
+        },
+        "posting_frequency": "1-2 posts daily, 3-5 stories daily",
+        "best_times": ["Weekdays 11am-1pm", "Evenings 7-9pm", "Sunday 10-11am"],
+        "hashtag_strategy": {
+          "count": "10-20 hashtags",
+          "mix": ["#SafeDrivingCommunity", "#DriveSafe", "#RoadSafety", "#DrivingTips", "#SafetyFirst", "#TokenRewards"]
+        },
+        "engagement_tactics": [
+          "Use location tags",
+          "Create shareable quote cards",
+          "Host story polls and quizzes",
+          "Feature user content",
+          "Use trending audio for Reels"
+        ],
+        "pillar_alignment": ["token_community", "safety_education", "entertainment_humor", "seasonal_trending"]
+      }
+    },
+    {
+      "id": "twitter",
+      "name": "Twitter/X",
+      "description": "Real-time platform for news, quick tips, and viral content",
+      "characteristics": {
+        "audience": "News consumers, tech-savvy users, opinion leaders",
+        "tone": "Conversational, timely, informative, sometimes witty",
+        "content_types": ["Breaking news", "Quick tips", "Viral responses", "Thread educational content"],
+        "format_preferences": ["Text tweets", "Images", "Short videos", "Threads", "Polls"],
+        "optimal_length": {
+          "text": "100-280 characters",
+          "video": "30 seconds max",
+          "threads": "5-10 tweets"
+        },
+        "posting_frequency": "3-5 times daily",
+        "best_times": ["Weekdays 8-9am", "Lunch 12-1pm", "Commute 5-6pm"],
+        "hashtag_strategy": {
+          "count": "1-2 hashtags",
+          "mix": ["#DrivingSafety", "#RoadSafety", "Trending hashtags when relevant"]
+        },
+        "engagement_tactics": [
+          "Jump on trending topics",
+          "Create quotable tweets",
+          "Respond quickly to mentions",
+          "Use relevant GIFs and memes",
+          "RT with commentary"
+        ],
+        "pillar_alignment": ["seasonal_trending", "entertainment_humor", "safety_education", "advocacy_impact"]
+      }
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "description": "Short-form video platform for viral content and younger audience",
+      "characteristics": {
+        "audience": "Gen Z, young millennials, entertainment seekers",
+        "tone": "Fun, authentic, educational but entertaining",
+        "content_types": ["Educational entertainment", "Challenges", "Viral trends", "Quick tips"],
+        "format_preferences": ["Vertical videos", "Trending sounds", "Effects and filters"],
+        "optimal_length": {
+          "text": "20 - 60 characters",
+          "video": "15-30 seconds",
+          "sweet_spot": "21-34 seconds"
+        },
+        "posting_frequency": "1-3 times daily",
+        "best_times": ["6-10am", "7-11pm", "Peak: Tuesday-Thursday"],
+        "hashtag_strategy": {
+          "count": "3-5 hashtags",
+          "mix": ["#DrivingTips", "#SafetyFirst", "#LearnOnTikTok", "#CarTok", "Trending challenges"]
+        },
+        "engagement_tactics": [
+          "Use trending sounds",
+          "Create challenges",
+          "Duet/stitch other videos",
+          "Educational hooks",
+          "Partner with influencers"
+        ],
+        "pillar_alignment": ["entertainment_humor", "safety_education", "token_community", "seasonal_trending"]
+      }
+    },
+    {
+      "id": "facebook",
+      "name": "Facebook",
+      "description": "Broad platform for community groups and diverse content",
+      "characteristics": {
+        "audience": "Mixed age groups, parents, community groups, local networks",
+        "tone": "Friendly, informative, community-focused",
+        "content_types": ["Detailed posts", "Live videos", "Events", "Group discussions"],
+        "format_preferences": ["Native video", "Photo albums", "Links", "Live streams"],
+        "optimal_length": {
+          "text": "40-80 characters",
+          "video": "30-60 seconds"
+        },
+        "posting_frequency": "1-2 times daily",
+        "best_times": ["Weekdays 1-4pm", "Weekends 12-2pm"],
+        "hashtag_strategy": {
+          "count": "1-2 hashtags",
+          "mix": ["#SafeDriving", "#CommunityFirst", "Local hashtags"]
+        },
+        "engagement_tactics": [
+          "Create/engage in groups",
+          "Host Facebook Live sessions",
+          "Share to relevant groups",
+          "Create events",
+          "Use Facebook polls"
+        ],
+        "pillar_alignment": ["token_community", "safety_education", "product_tips", "advocacy_impact"]
+      }
+    },
+    {
+      "id": "reddit",
+      "name": "Reddit",
+      "description": "Discussion platform for in-depth conversations and community building",
+      "characteristics": {
+        "audience": "Tech-savvy, skeptical, value-driven, seeking authentic discussion",
+        "tone": "Authentic, helpful, non-promotional, educational",
+        "content_types": ["Educational posts", "AMAs", "Discussions", "Data sharing"],
+        "format_preferences": ["Text posts", "Image posts", "Links to resources"],
+        "optimal_length": {
+          "title": "Clear and descriptive",
+          "text": "Detailed when needed"
+        },
+        "posting_frequency": "2-3 times per week",
+        "best_times": ["Weekday mornings 8-10am EST", "Evenings 8-10pm EST"],
+        "hashtag_strategy": {
+          "count": "No hashtags",
+          "approach": "Use relevant subreddit selection instead"
+        },
+        "relevant_subreddits": [
+          "r/IdiotsInCars",
+          "r/dashcam",
+          "r/Roadcam",
+          "r/driving",
+          "r/cryptocurrency",
+          "r/InsuranceProfessionals"
+        ],
+        "engagement_tactics": [
+          "Provide value first",
+          "Answer questions helpfully",
+          "Share data and insights",
+          "Never be overly promotional",
+          "Participate genuinely in discussions"
+        ],
+        "pillar_alignment": ["safety_education", "advocacy_impact", "entertainment_humor", "product_tips"]
+      }
+    }
+  ]
+}

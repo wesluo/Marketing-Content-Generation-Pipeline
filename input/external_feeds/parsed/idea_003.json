@@ -1,0 +1,18 @@
+{
+  "id": "idea_003",
+  "source_file": "gas_prices.txt",
+  "category": "external_feeds",
+  "title": "Insurance rates increasing for gig economy workers",
+  "raw_text": "Insurance rates increasing for gig economy workers",
+  "key_points": [
+    "insurance rate hikes",
+    "gig worker impact",
+    "cost pressures"
+  ],
+  "href": null,
+  "metadata": {
+    "source_type": "news",
+    "topic": "insurance costs"
+  },
+  "extracted_date": "2025-10-24"
+}

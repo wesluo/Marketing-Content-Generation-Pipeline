@@ -1,0 +1,18 @@
+{
+  "id": "idea_001",
+  "source_file": "gas_prices.txt",
+  "category": "external_feeds",
+  "title": "Gas prices rising 15% this month nationally",
+  "raw_text": "Gas prices rising 15% this month nationally",
+  "key_points": [
+    "15% price increase",
+    "national impact",
+    "affects all drivers"
+  ],
+  "href": null,
+  "metadata": {
+    "source_type": "news",
+    "topic": "fuel costs"
+  },
+  "extracted_date": "2025-10-24"
+}

@@ -1,0 +1,106 @@
+{
+  "pillars": [
+    {
+      "id": "safety_education",
+      "name": "Safety Education & Best Practices",
+      "description": "Core driving safety content and educational resources",
+      "topics": [
+        "Defensive driving techniques",
+        "Accident prevention tips",
+        "Weather and condition-specific guidance",
+        "Data-driven safety insights",
+        "Quick safety check reminders",
+        "Vehicle safety features explained",
+        "Road sign and rule refreshers",
+        "Night driving best practices",
+        "Highway merging and lane changes",
+        "Intersection navigation tips"
+      ]
+    },
+    {
+      "id": "token_community",
+      "name": "Token Rewards & Community",
+      "description": "Token economy, rewards system, and community engagement",
+      "topics": [
+        "How to earn and maximize tokens",
+        "Member success stories and testimonials",
+        "Community challenges and competitions",
+        "Token value updates and milestones",
+        "Safe driver spotlights and profiles",
+        "Leaderboard highlights",
+        "Community-driven initiatives",
+        "Token redemption opportunities",
+        "Referral program benefits",
+        "Community growth celebrations"
+      ]
+    },
+    {
+      "id": "advocacy_impact",
+      "name": "Advocacy & Impact",
+      "description": "Industry leadership, safety advocacy, and measurable impact",
+      "topics": [
+        "Industry safety trends and statistics",
+        "Community impact metrics",
+        "Environmental benefits of safe driving",
+        "Policy and regulation updates",
+        "Partnership announcements",
+        "Road safety advocacy campaigns",
+        "Accident reduction data",
+        "Carbon footprint reduction",
+        "Insurance industry insights",
+        "Future of transportation safety"
+      ]
+    },
+    {
+      "id": "product_tips",
+      "name": "Product Tips & Features",
+      "description": "Platform features, tutorials, and usage optimization",
+      "topics": [
+        "App tutorials and walkthroughs",
+        "New feature announcements",
+        "Tips for maximizing platform benefits",
+        "Technical updates and improvements",
+        "Integration guides with vehicles",
+        "Dashboard navigation tips",
+        "Troubleshooting common issues",
+        "Privacy and security features",
+        "Mobile app optimization",
+        "API and developer updates"
+      ]
+    },
+    {
+      "id": "seasonal_trending",
+      "name": "Seasonal & Trending Events",
+      "description": "Timely content tied to seasons, holidays, and current events",
+      "topics": [
+        "Holiday driving safety tips",
+        "Viral news and safety tie-ins",
+        "Current events response",
+        "Seasonal driving challenges",
+        "Pop culture and safe driving connections",
+        "Back-to-school driving reminders",
+        "Summer road trip safety",
+        "Winter weather preparations",
+        "Major sporting event traffic",
+        "Cultural celebration transportation"
+      ]
+    },
+    {
+      "id": "entertainment_humor",
+      "name": "Entertainment & Humor",
+      "description": "Fun, lighthearted content that entertains while subtly reinforcing safety messages",
+      "topics": [
+        "Trending memes adapted to driving context",
+        "Viral video responses and reactions",
+        "Humorous takes on driving experiences",
+        "Relatable everyday driving moments",
+        "Pop culture tie-ins",
+        "Community-generated funny content",
+        "Unexpected positive stories",
+        "Creative content experiments",
+        "Timely humor opportunities",
+        "Whatever's making people laugh right now"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "idea_002",
+  "source_file": "gas_prices.txt",
+  "category": "external_feeds",
+  "title": "New EV incentives announced for rideshare drivers",
+  "raw_text": "New EV incentives announced for rideshare drivers",
+  "key_points": [
+    "EV incentives",
+    "rideshare specific",
+    "policy announcement"
+  ],
+  "href": null,
+  "metadata": {
+    "source_type": "news",
+    "topic": "electric vehicles"
+  },
+  "extracted_date": "2025-10-24"
+}

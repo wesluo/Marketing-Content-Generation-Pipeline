@@ -1,0 +1,37 @@
+{
+  "primary_segment": {
+    "id": "gig_drivers",
+    "name": "Gig Economy Drivers",
+    "description": "Uber, Lyft, DoorDash, Instacart, and other delivery drivers",
+    "characteristics": [
+      "Income-focused",
+      "Time-conscious",
+      "High daily mileage",
+      "Irregular working hours",
+      "Multiple app users",
+      "Independent contractors",
+      "Cost-sensitive"
+    ],
+    "pain_points": [
+      "High gas costs",
+      "Vehicle wear and tear",
+      "Safety during night deliveries",
+      "Maximizing earnings per hour",
+      "Tax deduction tracking",
+      "Insurance concerns",
+      "Rating pressures"
+    ],
+    "content_preferences": [
+      "Quick tips that save money",
+      "Safety hacks for night driving",
+      "Earnings optimization strategies",
+      "Vehicle maintenance shortcuts",
+      "Tax and deduction advice"
+    ]
+  },
+  "optimization_settings": {
+    "optimize_when_relevant": true,
+    "optimization_rate": 30,
+    "note": "Agent creates segment-specific variant for ~30% of ideas where adding value"
+  }
+}
