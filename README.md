@@ -44,6 +44,32 @@ Content/
 └── README.md                         # This file
 ```
 
+## Prerequisites
+
+This pipeline requires **Claude Code** to be installed locally.
+
+### Installing Claude Code
+
+```bash
+# Install Claude Code globally
+npm install -g @anthropic-ai/claude-code
+
+# Or using Homebrew (macOS)
+brew install anthropic-ai/tap/claude-code
+
+# Verify installation
+claude --version
+```
+
+For detailed installation instructions, visit: https://docs.claude.com/claude-code
+
+### System Requirements
+
+- **Node.js**: v18 or higher
+- **Python**: 3.11+ (for analytics scripts)
+- **Claude API Key**: Set in environment or Claude Code configuration
+- **Operating Systems**: macOS, Linux, Windows (WSL)
+
 ## Quick Start
 
 ### 1. Parse Input Ideas
