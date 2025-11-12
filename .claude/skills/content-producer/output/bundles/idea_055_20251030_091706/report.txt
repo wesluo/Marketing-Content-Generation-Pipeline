@@ -1,0 +1,13 @@
+Content Production Report
+==================================================
+Idea ID: idea_055
+Pillar: advocacy_impact
+Generated: 2025-10-30T09:17:06.453497
+
+Summary:
+  - Trims: 0
+  - Fallbacks: 0
+  - AI Prompts: 4
+  - Golden Quotes: 0
+
+Output validated successfully.

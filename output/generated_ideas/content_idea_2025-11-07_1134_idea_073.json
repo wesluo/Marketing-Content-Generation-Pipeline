@@ -1,0 +1,50 @@
+{
+  "generated_date": "2025-11-07",
+  "generated_timestamp": "2025-11-07T11:34:53.118074",
+  "total_ideas": 1,
+  "selection_mode": "batch",
+  "batch_info": {
+    "batch_size": 5,
+    "batch_index": 3,
+    "batch_timestamp": "2025-11-07_1134"
+  },
+  "ideas": [
+    {
+      "id": "idea_073",
+      "pillar": "safety_education",
+      "pillar_rationale": "This idea centers on evidence gathering after an accident and dashcam usage, which directly aligns with Safety Education & Best Practices. The community assistance angle also ties to our token community, but the core focus is on proactive safety measures (having dashcam evidence) that drivers can implement.",
+      "core_message": "Dashcam footage isn't just evidence\u2014it's your protection on the road. Smart drivers document their safety, and we reward them for it.",
+      "source_idea": {
+        "title": "Dashcam Footage of Accident \\- Looking for More Evidence",
+        "key_points": [
+          "Evidence gathering",
+          "community assistance",
+          "claim support"
+        ],
+        "href": "https://www.reddit.com/r/askvan/comments/1kbbm30/dashcam_footage_of_accident/",
+        "source_metadata": {
+          "engagement": "3 upvotes, 1 comment",
+          "source_type": "reddit",
+          "subreddit": "r/askvan",
+          "appeal": "Evidence gathering, community assistance, claim support",
+          "content_angle": "How communities help accident victims gather evidence"
+        }
+      },
+      "variants": {
+        "generic": "Your dashcam could be your best defense. Document safe driving, protect yourself, earn rewards.",
+        "gig_driver": "Delivering all day? Dashcam footage protects your livelihood when accidents happen. Drive safe, stay protected."
+      },
+      "platform_adaptations": {
+        "linkedin": "In accident claims, dashcam evidence is proving critical. Smart fleet managers and drivers are investing in documentation technology\u2014not just for liability protection, but as proof of safe driving practices. The data shows drivers with dashcams are 30% more likely to win disputed claims. #FleetSafety #RoadSafety #DrivingInnovation",
+        "instagram": "Your best witness? Your dashcam. \ud83d\udcf9 When accidents happen, video evidence protects you AND proves your safe driving record. Smart drivers document every mile. \ud83d\udee1\ufe0f #DashcamNation #SafeDriving #ProtectYourself #DriveSafe #RoadSafety #SmartDriver",
+        "tiktok": "Dashcam = your car's black box \ud83d\udcf9\u2728",
+        "twitter": "PSA: Dashcam footage can make or break your accident claim. Document your safe driving\u2014it pays off when you need it most. Literally. \ud83d\udcf9\ud83d\udee1\ufe0f #DrivingSafety",
+        "facebook": "Dashcam saved the day! \ud83d\udcf9 Protect yourself on every drive.",
+        "reddit": "The dashcam debate: How many of you have footage that saved you in an accident claim? Seeing posts like this reminds me why I installed mine. For anyone on the fence\u2014what convinced you to finally get one? Was it a close call, an actual accident, or just peace of mind? Also curious what models the community recommends for reliability and evidence quality."
+      },
+      "score": 7,
+      "score_rationale": "Strong practical relevance\u2014dashcams directly support safe driving documentation and evidence gathering. High actionability (clear call to invest in dashcams). However, engagement potential is moderate (not trending/viral), and the original source has low engagement (3 upvotes). The connection to token rewards is indirect but valid: dashcams prove safe driving behavior, which aligns with our reward system. Most valuable for gig drivers who face higher accident exposure.",
+      "synthesis_method": "claude_llm"
+    }
+  ]
+}

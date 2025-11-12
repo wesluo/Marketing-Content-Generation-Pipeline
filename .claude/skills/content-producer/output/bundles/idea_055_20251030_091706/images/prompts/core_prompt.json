@@ -1,0 +1,11 @@
+{
+  "prompt": "safety-focused scene, modern mobile app interface, documentary photography style, powerful emotional impact, red and orange color grading, dramatic lighting, photojournalistic, high quality, professional photography, --ar 1:1, --v 6.1",
+  "pillar": "advocacy_impact",
+  "pillar_style": "Bold, emotional, impactful",
+  "aspect_ratio": "1:1",
+  "version": "6.1",
+  "parameters": {
+    "ar": "1:1",
+    "v": "6.1"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "generated_date": "2025-11-07",
+  "generated_timestamp": "2025-11-07T11:34:53.118074",
+  "total_ideas": 1,
+  "selection_mode": "batch",
+  "batch_info": {
+    "batch_size": 5,
+    "batch_index": 4,
+    "batch_timestamp": "2025-11-07_1134"
+  },
+  "ideas": [
+    {
+      "id": "idea_136",
+      "pillar": "safety_education",
+      "pillar_rationale": "This content directly addresses a critical driving safety best practice - tire maintenance - which falls squarely within defensive driving techniques and vehicle safety features. It provides actionable educational content that prevents accidents.",
+      "core_message": "Under-inflated tires can add crucial feet to your stopping distance. A monthly tire pressure check takes 5 minutes and could save your life. Earn tokens for maintaining safe driving habits.",
+      "source_idea": {
+        "title": "Under-inflated tires lengthen stopping distance",
+        "key_points": [
+          "Under-inflated tires lengthen stopping distance",
+          "Check monthly and protect grip"
+        ],
+        "href": null,
+        "source_metadata": {
+          "source_type": "csv_content_plan",
+          "category": "Safety & Analytics",
+          "format": "ready_copy"
+        }
+      },
+      "variants": {
+        "generic": "Under-inflated tires increase stopping distance. Check pressure monthly to protect your safety and earn tokens.",
+        "gig_driver": "Delivering all day? Low tire pressure adds stopping distance and burns more gas. Monthly checks = safer stops + token rewards."
+      },
+      "platform_adaptations": {
+        "linkedin": "Vehicle safety insight: Under-inflated tires can increase stopping distance by up to 20%, contributing to preventable accidents. Regular tire pressure checks are a simple yet overlooked safety measure. At Zenlit, we reward drivers who maintain these critical safety practices with token incentives.",
+        "instagram": "\ud83d\udede Quick safety check: Under-inflated tires = longer stopping distance. Set a monthly reminder to check your tire pressure. Your safety (and your tokens) will thank you. \ud83d\ude97\ud83d\udca8 #DriveSafe #SafetyFirst #TireCheck",
+        "tiktok": "Low tires = longer stops \ud83d\uded1 Check monthly, stay safe \ud83d\udede",
+        "twitter": "PSA: Under-inflated tires significantly lengthen your stopping distance. When's the last time you checked your tire pressure? Monthly checks take 5 minutes and could prevent an accident. #DrivingSafety #SafetyFirst",
+        "facebook": "Under-inflated tires = longer stopping distance. Check monthly, drive safer! \ud83d\udede",
+        "reddit": "Monthly tire pressure checks are one of the most overlooked safety practices. Under-inflated tires can increase your stopping distance by 10-20%, which might be the difference between stopping safely and rear-ending someone. Takes 5 minutes at any gas station, yet most drivers skip it. What's your tire maintenance routine?"
+      },
+      "score": 8,
+      "score_rationale": "Highly relevant to core safety mission with clear actionability. Universal applicability across all driver types. Strong engagement potential due to relatability - most drivers neglect tire pressure. Slightly less timely as it's evergreen content rather than trending, but the practical value and safety impact make it strong content. Particularly valuable for gig drivers with high daily mileage.",
+      "synthesis_method": "claude_llm"
+    }
+  ]
+}

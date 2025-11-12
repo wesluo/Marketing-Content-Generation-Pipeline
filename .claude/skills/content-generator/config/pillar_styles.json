@@ -1,0 +1,50 @@
+{
+  "safety_education": {
+    "visual_theme": "Professional, clean, data-driven",
+    "color_palette": "Blue tones (#2563EB, #3B82F6, #60A5FA), white backgrounds, high contrast",
+    "mood": "Trustworthy, authoritative, informative",
+    "style_references": "Infographic style, clean UI design, educational content, data visualization",
+    "composition_hints": "Centered subjects, clean backgrounds, professional lighting, organized layouts",
+    "midjourney_base": "professional infographic style, clean modern design, blue color scheme, high contrast, editorial photography"
+  },
+  "token_community": {
+    "visual_theme": "Vibrant, community-focused, inclusive",
+    "color_palette": "Purple/warm tones (#7C3AED, #A855F7, #C084FC), gradients, energetic colors",
+    "mood": "Welcoming, energetic, connected, optimistic",
+    "style_references": "Community photos, group activities, celebratory moments, diverse people",
+    "composition_hints": "Multiple subjects, candid moments, warm lighting, authentic interactions",
+    "midjourney_base": "vibrant community photography, diverse group of people, warm purple tones, authentic candid style, positive energy"
+  },
+  "advocacy_impact": {
+    "visual_theme": "Bold, emotional, impactful",
+    "color_palette": "Red/orange tones (#DC2626, #EF4444, #F97316), dramatic contrasts, powerful imagery",
+    "mood": "Urgent, passionate, determined, empowering",
+    "style_references": "Photojournalism, documentary style, protest imagery, powerful portraits",
+    "composition_hints": "Strong subjects, dramatic lighting, environmental context, emotional expressions",
+    "midjourney_base": "documentary photography style, powerful emotional impact, red and orange color grading, dramatic lighting, photojournalistic"
+  },
+  "product_tips": {
+    "visual_theme": "Practical, UI-focused, modern tech",
+    "color_palette": "Green/tech colors (#059669, #10B981, #34D399), clean whites, tech blue accents",
+    "mood": "Helpful, clear, accessible, modern",
+    "style_references": "UI screenshots, app mockups, tech tutorials, step-by-step guides",
+    "composition_hints": "Clear focus on interface, annotations, highlighting key features, clean backgrounds",
+    "midjourney_base": "modern app interface design, clean UI screenshot style, green accent colors, minimalist tech aesthetic, clear and focused"
+  },
+  "seasonal_trending": {
+    "visual_theme": "Dynamic, trend-aligned, timely",
+    "color_palette": "Seasonal palettes (spring pastels, summer brights, autumn warm, winter cool), trend-responsive",
+    "mood": "Timely, relevant, energetic, current",
+    "style_references": "Current social media trends, seasonal imagery, holiday themes, trending aesthetics",
+    "composition_hints": "Trend-specific layouts, seasonal elements, culturally relevant imagery, platform-native feel",
+    "midjourney_base": "trending social media aesthetic, seasonal theme [specify season], contemporary photography style, vibrant and current"
+  },
+  "entertainment_humor": {
+    "visual_theme": "Playful, meme-friendly, fun",
+    "color_palette": "Bright varied colors (#EC4899, #F59E0B, #8B5CF6, #06B6D4), bold contrasts, pop culture references",
+    "mood": "Lighthearted, entertaining, relatable, fun",
+    "style_references": "Meme formats, pop culture imagery, comedic timing, internet culture",
+    "composition_hints": "Exaggerated expressions, relatable scenarios, meme-format layouts, bold text overlays",
+    "midjourney_base": "humorous social media content style, bright playful colors, meme-friendly composition, pop culture aesthetic, fun and engaging"
+  }
+}

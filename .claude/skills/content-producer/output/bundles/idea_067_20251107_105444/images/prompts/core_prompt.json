@@ -1,0 +1,11 @@
+{
+  "prompt": "professional driver in vehicle, safety-focused scene, humorous social media content style, bright playful colors, meme-friendly composition, pop culture aesthetic, fun and engaging, high quality, professional photography, --ar 1:1, --v 6.1",
+  "pillar": "entertainment_humor",
+  "pillar_style": "Playful, meme-friendly, fun",
+  "aspect_ratio": "1:1",
+  "version": "6.1",
+  "parameters": {
+    "ar": "1:1",
+    "v": "6.1"
+  }
+}

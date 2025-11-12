@@ -1,0 +1,21 @@
+{
+  "id": "idea_112",
+  "source_file": "ZENLIT SMM CONTENT PLAN.csv",
+  "category": "human_insights",
+  "pillar_hint": "seasonal_trending",
+  "csv_category": "AZ related news",
+  "title": "Construction season expands",
+  "raw_text": "Construction season expands. Orange cones require commitment. Pick a lane early and hold it.",
+  "key_points": [
+    "Construction season expands",
+    "Orange cones require commitment"
+  ],
+  "href": null,
+  "hashtags": [],
+  "metadata": {
+    "source_type": "csv_content_plan",
+    "category": "AZ related news",
+    "format": "ready_copy"
+  },
+  "extracted_date": "2025-11-06"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "idea_146",
+  "source_file": "ZENLIT SMM CONTENT PLAN.csv",
+  "category": "human_insights",
+  "pillar_hint": "entertainment_humor",
+  "csv_category": "Interactive",
+  "title": "Question: on open highways, do you prefer cruise or manual control, and why?",
+  "raw_text": "Question: on open highways, do you prefer cruise or manual control, and why?",
+  "key_points": [
+    "Question: on open highways, do you prefer cruise or manual control, and why?"
+  ],
+  "href": null,
+  "hashtags": [],
+  "metadata": {
+    "source_type": "csv_content_plan",
+    "category": "Interactive",
+    "format": "ready_copy"
+  },
+  "extracted_date": "2025-11-06"
+}

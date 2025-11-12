@@ -1,0 +1,21 @@
+{
+  "id": "idea_110",
+  "source_file": "ZENLIT SMM CONTENT PLAN.csv",
+  "category": "human_insights",
+  "pillar_hint": "seasonal_trending",
+  "csv_category": "AZ related news",
+  "title": "Marathon closures downtown",
+  "raw_text": "Marathon closures downtown. Re-route early instead of last-second zigzags. Your future self avoids stress.",
+  "key_points": [
+    "Marathon closures downtown",
+    "Re-route early instead of last-second zigzags"
+  ],
+  "href": null,
+  "hashtags": [],
+  "metadata": {
+    "source_type": "csv_content_plan",
+    "category": "AZ related news",
+    "format": "ready_copy"
+  },
+  "extracted_date": "2025-11-06"
+}

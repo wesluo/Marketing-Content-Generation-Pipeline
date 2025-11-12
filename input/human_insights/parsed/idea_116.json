@@ -1,0 +1,21 @@
+{
+  "id": "idea_116",
+  "source_file": "ZENLIT SMM CONTENT PLAN.csv",
+  "category": "human_insights",
+  "pillar_hint": "product_tips",
+  "csv_category": "Zenlit News",
+  "title": "City trip detection tuned",
+  "raw_text": "City trip detection tuned. Expect cleaner event logs and fairer scoring in stop-and-go traffic.",
+  "key_points": [
+    "City trip detection tuned",
+    "Expect cleaner event logs and fairer scoring in stop-and-go traffic"
+  ],
+  "href": null,
+  "hashtags": [],
+  "metadata": {
+    "source_type": "csv_content_plan",
+    "category": "Zenlit News",
+    "format": "ready_copy"
+  },
+  "extracted_date": "2025-11-06"
+}

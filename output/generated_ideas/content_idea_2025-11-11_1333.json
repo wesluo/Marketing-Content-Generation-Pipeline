@@ -1,0 +1,45 @@
+{
+  "generated_date": "2025-11-11",
+  "generated_timestamp": "2025-11-11T13:33:02.860853",
+  "total_ideas": 1,
+  "selection_mode": "random",
+  "ideas": [
+    {
+      "id": "idea_014",
+      "pillar": "safety_education",
+      "pillar_rationale": "This near-miss story directly aligns with defensive driving lessons and accident prevention - core safety education topics. The heart-stopping moments provide authentic teaching opportunities about split-second decision making.",
+      "core_message": "Split-second decisions separate close calls from crashes. Every near-miss is a lesson in defensive driving that could save your life tomorrow.",
+      "source_idea": {
+        "title": "What's the Closest Near Miss \\- Thought You Were Gonna Die",
+        "key_points": [
+          "Heart-stopping moments",
+          "life-changing experiences",
+          "defensive driving lessons"
+        ],
+        "href": "https://www.reddit.com/r/cars/comments/8l3f85/whats_the_closest_near_miss_you_thought_you_were/",
+        "source_metadata": {
+          "engagement": "51 upvotes, 259 comments",
+          "source_type": "reddit",
+          "subreddit": "r/cars",
+          "appeal": "Heart-stopping moments, life-changing experiences, defensive driving lessons",
+          "content_angle": "Split-second decisions that save gig workers' lives"
+        }
+      },
+      "variants": {
+        "generic": "That near-miss moment? It's teaching you defensive driving skills that earn rewards while keeping you safe.",
+        "gig_driver": "High mileage means more close calls. Turn those defensive driving instincts into tokens while staying safe on the road."
+      },
+      "platform_adaptations": {
+        "linkedin": "259 drivers shared their closest near-miss moments. The common thread? Defensive driving skills and split-second decisions that save lives. Our platform rewards these safety instincts with tangible token benefits, reducing accident rates across gig economy fleets by making safety profitable.",
+        "instagram": "That moment when time slows down and you KNOW you just avoided disaster? \ud83d\udc94\u27a1\ufe0f\u2705 Those defensive driving instincts aren't just keeping you alive - they're earning you rewards. Share your closest call below.",
+        "tiktok": "That split-second save that changed everything",
+        "twitter": "51 upvotes, 259 stories of near-death driving moments. Every close call teaches defensive driving lessons that could save your life tomorrow. What's yours?",
+        "facebook": "We've all had that moment - time slows, heart stops, disaster avoided by inches.",
+        "reddit": "What defensive driving technique from your closest near-miss do you still use today? Looking at the 259 comments in r/cars about life-changing close calls, curious what actual safety lessons people took away. For context: building a platform that rewards safe driving habits, trying to understand what motivates behavioral change after near-miss experiences."
+      },
+      "score": 8,
+      "score_rationale": "High engagement potential (259 comments proves strong emotional resonance), directly relevant to safety mission, authentic storytelling angle, and gig drivers experience more road exposure. Loses points for being reactive content rather than proactive safety guidance, but the emotional hook and community discussion value are exceptional.",
+      "synthesis_method": "claude_llm"
+    }
+  ]
+}

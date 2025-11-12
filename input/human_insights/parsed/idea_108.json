@@ -1,0 +1,21 @@
+{
+  "id": "idea_108",
+  "source_file": "ZENLIT SMM CONTENT PLAN.csv",
+  "category": "human_insights",
+  "pillar_hint": "seasonal_trending",
+  "csv_category": "World News",
+  "title": "Major storm in headlines",
+  "raw_text": "Major storm in headlines. Even if it misses you, treat wet roads like ice for the first hour after rain. Patience prevents spins.",
+  "key_points": [
+    "Major storm in headlines",
+    "Even if it misses you, treat wet roads like ice for the first hour after rain"
+  ],
+  "href": null,
+  "hashtags": [],
+  "metadata": {
+    "source_type": "csv_content_plan",
+    "category": "World News",
+    "format": "ready_copy"
+  },
+  "extracted_date": "2025-11-06"
+}

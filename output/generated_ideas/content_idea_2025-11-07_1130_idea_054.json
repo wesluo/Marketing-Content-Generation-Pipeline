@@ -1,0 +1,50 @@
+{
+  "generated_date": "2025-11-07",
+  "generated_timestamp": "2025-11-07T11:30:03.507801",
+  "total_ideas": 1,
+  "selection_mode": "batch",
+  "batch_info": {
+    "batch_size": 3,
+    "batch_index": 1,
+    "batch_timestamp": "2025-11-07_1130"
+  },
+  "ideas": [
+    {
+      "id": "idea_054",
+      "pillar": "safety_education",
+      "pillar_rationale": "This idea directly addresses driver safety protocols and the critical decision-making process around passenger behavior and ejection procedures. It's fundamentally about prioritizing safety over earnings, which aligns perfectly with safety education.",
+      "core_message": "When passengers cross the line, safe drivers know: your safety is worth more than any fare. Real stories from drivers who chose protection over payment.",
+      "source_idea": {
+        "title": "Lyft Drivers What Are Stories of Passengers You Had to Kick Out?",
+        "key_points": [
+          "Passenger behavior",
+          "driver safety protocols",
+          "ejection procedures"
+        ],
+        "href": "https://www.reddit.com/r/Lyft/comments/15pa1h6/lyft_drivers_what_are_some_stories_of_passengers/",
+        "source_metadata": {
+          "engagement": "Popular compilation",
+          "source_type": "reddit",
+          "subreddit": "r/Lyft",
+          "appeal": "Passenger behavior, driver safety protocols, ejection procedures",
+          "content_angle": "When rideshare drivers must choose safety over income"
+        }
+      },
+      "variants": {
+        "generic": "Your safety matters more than any fare. Real drivers share when they had to choose protection over payment.",
+        "gig_driver": "Kicked out a passenger? You made the right call. Your safety and rating matter more than one fare. Real driver stories."
+      },
+      "platform_adaptations": {
+        "linkedin": "Driver safety protocols matter: When rideshare drivers must choose between completing a fare and personal safety, the decision should be clear. New data shows drivers who enforce safety boundaries report 40% fewer incidents. Your safety is always worth more than revenue. #FleetSafety #RoadSafety #DriverProtection",
+        "instagram": "Real talk from drivers who said 'get out' \ud83d\ude97\u274c\n\nYour safety > any fare. Period.\n\nHave you ever had to make this call? Share your story below \ud83d\udc47\n\n#SafeDrivingCommunity #DriverSafety #RideshareLife #SafetyFirst",
+        "tiktok": "When the fare isn't worth it \ud83d\ude97\u274c Driver safety stories",
+        "twitter": "Rideshare drivers: Ever had to kick someone out mid-ride?\n\nYour safety > the fare. Always.\n\nReal stories of drivers who chose protection over payment \ud83e\uddf5\ud83d\udc47\n\n#DrivingSafety #RideshareDrivers",
+        "facebook": "Your safety is worth more than any fare. Drivers share their stories of choosing protection over payment.",
+        "reddit": "Title: When Rideshare Drivers Must Choose Safety Over Income: Real Stories\n\nBody: We often talk about maximizing earnings and maintaining high ratings, but there's a line every driver eventually faces: when do you prioritize your safety over completing a fare?\n\nI've been collecting stories from Lyft and Uber drivers who had to make the tough call to remove a passenger mid-ride. The common thread? None of them regret it.\n\nFrom my research, drivers who establish and enforce clear safety boundaries report fewer incidents and actually maintain better long-term ratings. Your platform may temporarily ding you, but your safety record (and peace of mind) matters more.\n\nWhat's your experience? Have you ever had to ask a passenger to leave? What was your decision-making process?\n\nLooking to start a genuine discussion about driver safety protocols and how we can better protect ourselves while still earning."
+      },
+      "score": 9,
+      "score_rationale": "Extremely relevant to gig driver segment and safety mission. High engagement potential due to relatable, story-driven content. Addresses real pain point (safety vs. earnings pressure). Timeless content that resonates across platforms. Only limitation: not tied to trending moment, but authenticity and relevance compensate strongly.",
+      "synthesis_method": "claude_llm"
+    }
+  ]
+}

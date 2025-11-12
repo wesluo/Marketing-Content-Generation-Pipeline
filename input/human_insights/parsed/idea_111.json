@@ -1,0 +1,21 @@
+{
+  "id": "idea_111",
+  "source_file": "ZENLIT SMM CONTENT PLAN.csv",
+  "category": "human_insights",
+  "pillar_hint": "seasonal_trending",
+  "csv_category": "AZ related news",
+  "title": "Big concert release means venue traffic",
+  "raw_text": "Big concert release means venue traffic. Expect surges after the encore. Let the crowd rush; you stay steady.",
+  "key_points": [
+    "Big concert release means venue traffic",
+    "Expect surges after the encore"
+  ],
+  "href": null,
+  "hashtags": [],
+  "metadata": {
+    "source_type": "csv_content_plan",
+    "category": "AZ related news",
+    "format": "ready_copy"
+  },
+  "extracted_date": "2025-11-06"
+}

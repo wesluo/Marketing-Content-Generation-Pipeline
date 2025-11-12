@@ -1,0 +1,45 @@
+{
+  "idea_id": "idea_055",
+  "source_file": "/Users/wesl/Zenlit/Marketing/Content/output/generated_ideas/content_idea_2025-10-30_0916.json",
+  "pillar_id": "advocacy_impact",
+  "generated_timestamp": "2025-10-30T09:17:06.453376",
+  "cta_placeholder": "[CTA_PLACEHOLDER]",
+  "platforms": {
+    "facebook": {
+      "copy_path": "copy/facebook.txt"
+    },
+    "instagram": {
+      "copy_path": "copy/instagram.txt"
+    },
+    "reddit": {
+      "title_path": "copy/reddit_title.txt",
+      "body_path": "copy/reddit_body.txt"
+    },
+    "linkedin": {
+      "copy_path": "copy/linkedin.txt"
+    },
+    "twitter": {
+      "copy_path": "copy/twitter.txt"
+    },
+    "tiktok": {
+      "copy_path": "copy/tiktok.txt"
+    }
+  },
+  "image_prompts": {
+    "core_json": "output/bundles/idea_055_20251030_091706/images/prompts/core_prompt.json",
+    "core_txt": "output/bundles/idea_055_20251030_091706/images/prompts/core_prompt.txt",
+    "variation_1": "output/bundles/idea_055_20251030_091706/images/prompts/variation_1.txt",
+    "variation_2": "output/bundles/idea_055_20251030_091706/images/prompts/variation_2.txt",
+    "variation_3": "output/bundles/idea_055_20251030_091706/images/prompts/variation_3.txt"
+  },
+  "golden_quotes": null,
+  "validations": {
+    "warnings": [],
+    "counts": {
+      "trims": 0,
+      "fallbacks": 0,
+      "prompts": 4,
+      "quotes": 0
+    }
+  }
+}

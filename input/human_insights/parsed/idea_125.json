@@ -1,0 +1,21 @@
+{
+  "id": "idea_125",
+  "source_file": "ZENLIT SMM CONTENT PLAN.csv",
+  "category": "human_insights",
+  "pillar_hint": "safety_education",
+  "csv_category": "Education",
+  "title": "Review your top three weekly events",
+  "raw_text": "Review your top three weekly events. Fix the pattern, not just the moment.",
+  "key_points": [
+    "Review your top three weekly events",
+    "Fix the pattern, not just the moment"
+  ],
+  "href": null,
+  "hashtags": [],
+  "metadata": {
+    "source_type": "csv_content_plan",
+    "category": "Education",
+    "format": "ready_copy"
+  },
+  "extracted_date": "2025-11-06"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "idea_163",
+  "source_file": "ZENLIT SMM CONTENT PLAN.csv",
+  "category": "human_insights",
+  "pillar_hint": "token_community",
+  "csv_category": "Token Stories",
+  "title": "Did you know that in may 2010, one programmer bought 2 pizzas for 10,000 BTC",
+  "raw_text": "Did you know that in may 2010, one programmer bought 2 pizzas for 10,000 BTC. Today, that’s worth hundreds of millions. The famous ‘Bitcoin Pizza Day’ shows how value evolves. Zenlit Pizza Day is coming soon!",
+  "key_points": [
+    "Did you know that in may 2010, one programmer bought 2 pizzas for 10,000 BTC",
+    "Today, that’s worth hundreds of millions"
+  ],
+  "href": null,
+  "hashtags": [],
+  "metadata": {
+    "source_type": "csv_content_plan",
+    "category": "Token Stories",
+    "format": "ready_copy"
+  },
+  "extracted_date": "2025-11-06"
+}

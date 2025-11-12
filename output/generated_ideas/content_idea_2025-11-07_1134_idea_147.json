@@ -1,0 +1,46 @@
+{
+  "generated_date": "2025-11-07",
+  "generated_timestamp": "2025-11-07T11:34:53.118074",
+  "total_ideas": 1,
+  "selection_mode": "batch",
+  "batch_info": {
+    "batch_size": 5,
+    "batch_index": 1,
+    "batch_timestamp": "2025-11-07_1134"
+  },
+  "ideas": [
+    {
+      "id": "idea_147",
+      "pillar": "safety_education",
+      "pillar_rationale": "This quiz directly addresses defensive driving techniques and following distance, which is core safety education. It's an interactive teaching moment that reinforces a critical safety metric.",
+      "core_message": "Following distance saves lives and earns tokens. Test your knowledge and share your safety rule.",
+      "source_idea": {
+        "title": "Quiz: how many seconds of following distance do you keep at 55 mph? Share your r...",
+        "key_points": [
+          "Quiz: how many seconds of following distance do you keep at 55 mph? Share your rule"
+        ],
+        "href": null,
+        "source_metadata": {
+          "source_type": "csv_content_plan",
+          "category": "Interactive",
+          "format": "ready_copy"
+        }
+      },
+      "variants": {
+        "generic": "Quiz: How many seconds following distance at 55 mph? Share your rule and earn tokens for safe driving.",
+        "gig_driver": "Quiz for drivers: Following distance at 55 mph? Know this rule, stay safe, keep earning. Share yours."
+      },
+      "platform_adaptations": {
+        "linkedin": "Professional drivers know the answer: proper following distance at highway speeds prevents accidents and reduces liability. What's your rule? Safe driving isn't just smart\u2014it's measurable. #FleetSafety #RoadSafety",
+        "instagram": "Pop quiz time! \ud83d\ude97\ud83d\udca8 How many seconds of following distance do you keep at 55 mph? Drop your answer below and see how you compare to other safe drivers in our community! #SafeDrivingCommunity #DriveSafe",
+        "tiktok": "Following distance quiz: 55 mph = how many seconds? \ud83d\udc40",
+        "twitter": "Quick safety check: How many seconds of following distance do you maintain at 55 mph? Reply with your rule. Safe drivers earn rewards. #DrivingSafety",
+        "facebook": "Test your knowledge: Following distance at 55 mph? Share your answer! \ud83d\ude97",
+        "reddit": "Curious about following distance practices among drivers here. At 55 mph, how many seconds do you keep between you and the car ahead? I've heard everything from 2 to 5 seconds. What's your rule and reasoning?"
+      },
+      "score": 8,
+      "score_rationale": "High engagement potential through interactive quiz format, directly relevant to core safety mission, actionable knowledge that applies to daily driving. Loses points for lacking timeliness/trending element, but gains points for being universally applicable and creating discussion opportunities.",
+      "synthesis_method": "claude_llm"
+    }
+  ]
+}

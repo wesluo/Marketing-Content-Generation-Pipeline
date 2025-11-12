@@ -1,0 +1,47 @@
+{
+  "generated_date": "2025-11-07",
+  "generated_timestamp": "2025-11-07T11:30:03.507801",
+  "total_ideas": 1,
+  "selection_mode": "batch",
+  "batch_info": {
+    "batch_size": 3,
+    "batch_index": 3,
+    "batch_timestamp": "2025-11-07_1130"
+  },
+  "ideas": [
+    {
+      "id": "idea_002",
+      "pillar": "advocacy_impact",
+      "pillar_rationale": "This policy announcement about EV incentives for rideshare drivers directly aligns with advocacy and impact content, focusing on industry policy updates and environmental benefits that affect the driving community.",
+      "core_message": "New EV incentives are making electric vehicles more accessible for rideshare drivers\u2014a win for safer, cleaner roads and your earnings potential.",
+      "source_idea": {
+        "title": "New EV incentives announced for rideshare drivers",
+        "key_points": [
+          "EV incentives",
+          "rideshare specific",
+          "policy announcement"
+        ],
+        "href": null,
+        "source_metadata": {
+          "source_type": "news",
+          "topic": "electric vehicles"
+        }
+      },
+      "variants": {
+        "generic": "New EV incentives for rideshare drivers mean cleaner roads and better earnings. Drive safe, drive electric.",
+        "gig_driver": "New EV incentives cut your gas costs while boosting your earnings. Time to go electric and drive safer."
+      },
+      "platform_adaptations": {
+        "linkedin": "Major policy win: New EV incentives specifically target rideshare drivers, reducing operational costs while advancing road safety and environmental goals. This represents a significant shift in how policymakers are supporting gig economy workers. What does your fleet strategy look like? #FleetSafety #InsurTech #RoadSafety",
+        "instagram": "Big news for rideshare drivers! \ud83d\ude97\u26a1 New EV incentives just dropped, making electric vehicles more accessible. Lower costs + safer roads = winning combo. Tag a driver who needs to see this! #SafeDrivingCommunity #DriveSafe #EVIncentives",
+        "tiktok": "New EV incentives for rideshare drivers just dropped!",
+        "twitter": "New EV incentives for rideshare drivers just announced. Lower gas costs + cleaner roads = safer driving for everyone. This is how policy drives real change. #DrivingSafety #RoadSafety",
+        "facebook": "New EV incentives help rideshare drivers save money and drive safer!",
+        "reddit": "Heads up for rideshare drivers: New EV incentives were just announced that could significantly reduce your operating costs. For those doing high daily mileage, the switch to electric could mean substantial savings on gas while contributing to safer, cleaner roads. Has anyone here already made the switch to EV for rideshare? Would love to hear real-world experiences with costs and maintenance."
+      },
+      "score": 8,
+      "score_rationale": "Highly relevant to gig economy drivers with direct financial impact. Strong timeliness as a policy announcement. Good engagement potential as it addresses a major pain point (gas costs) while connecting to safety and environmental benefits. Loses 2 points for being information-heavy rather than immediately actionable.",
+      "synthesis_method": "claude_llm"
+    }
+  ]
+}

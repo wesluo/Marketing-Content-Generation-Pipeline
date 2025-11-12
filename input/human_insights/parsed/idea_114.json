@@ -1,0 +1,21 @@
+{
+  "id": "idea_114",
+  "source_file": "ZENLIT SMM CONTENT PLAN.csv",
+  "category": "human_insights",
+  "pillar_hint": "seasonal_trending",
+  "csv_category": "AZ related news",
+  "title": "Transit strike pushes commuters back to cars",
+  "raw_text": "Transit strike pushes commuters back to cars. Increase following distance and lower expectations for speed.",
+  "key_points": [
+    "Transit strike pushes commuters back to cars",
+    "Increase following distance and lower expectations for speed"
+  ],
+  "href": null,
+  "hashtags": [],
+  "metadata": {
+    "source_type": "csv_content_plan",
+    "category": "AZ related news",
+    "format": "ready_copy"
+  },
+  "extracted_date": "2025-11-06"
+}

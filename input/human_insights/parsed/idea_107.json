@@ -1,0 +1,21 @@
+{
+  "id": "idea_107",
+  "source_file": "ZENLIT SMM CONTENT PLAN.csv",
+  "category": "human_insights",
+  "pillar_hint": "seasonal_trending",
+  "csv_category": "Events & Holidays",
+  "title": "First cold morning of the season",
+  "raw_text": "First cold morning of the season. Tires wake up slowly; you should too. Gentle throttle for the first miles.",
+  "key_points": [
+    "First cold morning of the season",
+    "Tires wake up slowly; you should too"
+  ],
+  "href": null,
+  "hashtags": [],
+  "metadata": {
+    "source_type": "csv_content_plan",
+    "category": "Events & Holidays",
+    "format": "ready_copy"
+  },
+  "extracted_date": "2025-11-06"
+}

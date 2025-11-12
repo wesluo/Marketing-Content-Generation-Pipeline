@@ -1,0 +1,21 @@
+{
+  "id": "idea_109",
+  "source_file": "ZENLIT SMM CONTENT PLAN.csv",
+  "category": "human_insights",
+  "pillar_hint": "seasonal_trending",
+  "csv_category": "News",
+  "title": "Fuel prices rising",
+  "raw_text": "Fuel prices rising. Smoother speed costs less and scores better. Use cruise control on open stretches.",
+  "key_points": [
+    "Fuel prices rising",
+    "Smoother speed costs less and scores better"
+  ],
+  "href": null,
+  "hashtags": [],
+  "metadata": {
+    "source_type": "csv_content_plan",
+    "category": "News",
+    "format": "ready_copy"
+  },
+  "extracted_date": "2025-11-06"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "idea_135",
+  "source_file": "ZENLIT SMM CONTENT PLAN.csv",
+  "category": "human_insights",
+  "pillar_hint": "safety_education",
+  "csv_category": "Safety & Analytics",
+  "title": "First hour of rain spikes incidents",
+  "raw_text": "First hour of rain spikes incidents. Brake earlier and straighter than instinct.",
+  "key_points": [
+    "First hour of rain spikes incidents",
+    "Brake earlier and straighter than instinct"
+  ],
+  "href": null,
+  "hashtags": [],
+  "metadata": {
+    "source_type": "csv_content_plan",
+    "category": "Safety & Analytics",
+    "format": "ready_copy"
+  },
+  "extracted_date": "2025-11-06"
+}

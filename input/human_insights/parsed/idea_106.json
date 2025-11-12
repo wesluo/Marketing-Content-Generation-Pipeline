@@ -1,0 +1,21 @@
+{
+  "id": "idea_106",
+  "source_file": "ZENLIT SMM CONTENT PLAN.csv",
+  "category": "human_insights",
+  "pillar_hint": "seasonal_trending",
+  "csv_category": "Events & Holidays",
+  "title": "Stadium traffic tonight",
+  "raw_text": "Stadium traffic tonight. Skip aggressive exits; float through with wide gaps and preserve your score.",
+  "key_points": [
+    "Stadium traffic tonight",
+    "Skip aggressive exits; float through with wide gaps and preserve your score"
+  ],
+  "href": null,
+  "hashtags": [],
+  "metadata": {
+    "source_type": "csv_content_plan",
+    "category": "Events & Holidays",
+    "format": "ready_copy"
+  },
+  "extracted_date": "2025-11-06"
+}

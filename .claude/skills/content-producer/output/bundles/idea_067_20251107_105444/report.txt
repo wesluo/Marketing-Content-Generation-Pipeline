@@ -1,0 +1,13 @@
+Content Production Report
+==================================================
+Idea ID: idea_067
+Pillar: entertainment_humor
+Generated: 2025-11-07T10:54:44.495491
+
+Summary:
+  - Trims: 0
+  - Fallbacks: 0
+  - AI Prompts: 4
+  - Golden Quotes: 0
+
+Output validated successfully.
